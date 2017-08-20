@@ -24,13 +24,9 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-git
-    - name: fa-linux
-    - name: icon-archlinux
     - name: icon-database-alt2
   skill_icon2:
     - name: icon-database-alt2
-    - name: icon-archlinux
-    - name: fa-linux
     - name: icon-git
     
   desc: Estudiante activo de Ingeniería de Sistemas y Computación de la Universidad Nacional de Colombia.
