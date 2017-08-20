@@ -7,23 +7,23 @@
     detail: La Cadena Retail Solutions Ltda, es una empresa colombiana dedicada al desarrollo de software y prestación de servicios de consultoría de negocio, enfocándose en las cadenas de supermercados y tiendas por departamentos.
     i18n: company_a_desc
   date:
-    detail: Dec. 2014
+    detail: Dec. 2014 - Actualidad
     i18n: company_a_date
   job:
     detail: Full Stack Developer
     i18n: company_a_job
   icon: fa-plus-square
 
-#- name:
-#    detail: Company B
-#    i18n: company_b
-#  desc:
-#    detail: I worked at Company B ...
-#    i18n: company_b_desc
-#  date:
-#    detail: Jun. 2015
-#    i18n: company_b_date
-#  job:
-#    detail: Full Stack Developer
-#    i18n: company_b_job
-#  icon: fa-plus-square
+- name:
+    detail: Universidad Nacional de Colombia
+    i18n: company_b
+  desc:
+    detail: Ingeniería de Sistemas y Computación
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2011 - Actualidad
+    i18n: company_b_date
+  job:
+    detail: Estudiante
+    i18n: company_b_job
+  icon: fa-plus-square
