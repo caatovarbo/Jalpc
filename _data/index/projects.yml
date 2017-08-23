@@ -14,3 +14,9 @@
   repo:  Fast-Track-Python
   img: /static/assets/img/landing/python.png
   desc: Repositorio de Python.
+
+- name: JavaScript
+  gh_user: caatovarbo
+  repo:  JavaScriptBToP
+  img: /static/assets/img/landing/javascript.png
+  desc: Repositorio de JavaScript.
