@@ -9,8 +9,8 @@
 #- name: Linux
 #  href: /linux/
 
-#- name: HTML
-#  href: /html/
+- name: HTML
+  href: /html/
 
 #- name: Database
 #  href: /database/
